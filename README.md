@@ -337,9 +337,5 @@ private void SubCallback(string key, MonitoredItem monitoredItem, MonitoredItemN
 ```
 
 
-## Thanks
-感谢使用本库，如何有任何的疑问，可以联系作者，也可以加群讨论：592132877
-
-
-## 创作不易，感谢打赏
-![Picture](https://raw.githubusercontent.com/dathlin/OpcUaHelper/master/Imgs/support.png)
+## Notes
+封装的内裤使用时除了有UA名称的几个dll外还需要使用System.ServiceModel.Primitives.dll
